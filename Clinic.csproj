@@ -22,6 +22,7 @@
   <ItemGroup>
     <Folder Include="DAL\" />
     <Folder Include="BLL\" />
+    <Folder Include="DatabaseScript\" />
   </ItemGroup>
 
 </Project>
